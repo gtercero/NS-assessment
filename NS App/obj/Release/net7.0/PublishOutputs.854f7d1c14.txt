@@ -1,0 +1,59 @@
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\NS App.exe
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Cosmos.CRTCompat.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\msvcp140.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\vcruntime140.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\vcruntime140_1.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\appsettings.Development.json
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\appsettings.json
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\NS App.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\NS App.deps.json
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\NS App.runtimeconfig.json
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\NS App.pdb
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Core.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Identity.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Security.KeyVault.Certificates.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Security.KeyVault.Secrets.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Storage.Blobs.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Storage.Common.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Storage.Files.Shares.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Azure.Storage.Queues.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Bcl.HashCode.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Extensions.Azure.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Identity.Client.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Identity.Web.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Identity.Web.UI.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Newtonsoft.Json.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Configuration.ConfigurationManager.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Drawing.Common.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Memory.Data.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Security.Permissions.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\System.Windows.Extensions.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\Microsoft.WindowsAzure.Storage.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win-x64\native\msvcp140.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gtercero\Documents\Respaldo Datos\Proyectos Prueba\NS Test\NS App\bin\Publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
