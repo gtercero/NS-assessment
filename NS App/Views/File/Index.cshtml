@@ -1,0 +1,89 @@
+﻿@model IEnumerable<NS_App.Models.FileViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (User.Identity?.IsAuthenticated == true)
+{
+    <h2 class="text-center"> Uploaded Files</h2>
+
+
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#fileModal">
+        <i class="fa-solid fa-circle-plus"></i> Upload
+    </button>
+    <br />
+    <div class="modal fade" id="fileModal" tabindex="-1" aria-labelledby="fileModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="post" enctype="multipart/form-data" asp-controller="File" asp-action="Upload">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="fileModalLabel">File Upload</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label> Select a File </label>
+                                    <input class="form-control" name="files" type="file" id="uploadedfile" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label> Description </label>
+                                    <input class="form-control" name="description" type="TextArea" id="txtdescription" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <input class="btn btn-success" type="submit" value="Upload" id="btnupload" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br />
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Description</th>
+                <th>Size(Bytes)</th>
+                <th>Created</th>
+                <th>Action(s)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var data in Model)
+            {
+                <tr>
+
+                    <td><a href="/File/Download?fileName=@data.Name&id=@data.Id">@data.Name</a></td>
+                    <td>@data.Description</td>
+                    <td>@data.Size</td>
+                    <td>@data.CreationDate</td>
+                    <td> <a href="/File/Delete?fileName=@data.Name&id=@data.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <script type="text/javascript">
+        $(document).ready(function ()
+        {
+            $("#btnupload").click(function ()
+            {
+                
+                if ($("#txtdescription").val() == "" || !$("#uploadedfile").val())
+                {
+                    alert("You must complete the form.");
+                }
+               
+            });
+        });  
+    </script>
+}
