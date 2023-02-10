@@ -25,11 +25,13 @@ The web app was deployed to an Azure App Service and the same environment variab
 Running the web app
 1-Copy the link of the repository and clone it in Visual Studio Code.
 2-Add assets to build (C# extensions) if VS Code request them.
-3-Execute from the terminal
-//to add packages
+3-Open a new terminal
+4-Change directory 
+cd 'NS App'
+5-Add packages if it's necessary
 dotnet add package Microsoft.Azure.Cosmos --version 3.32.0
 dotnet add package WindowsAzure.Storage --version 9.3.3
-//to enable user-secrets
+6-Enable user-secrets
 dotnet user-secrets init
-//create the environment variables mencioned early as user secrets (detail will be attach to the email).
-3-Execute dotnet run. 
+7-Create the environment variables mencioned early as user secrets (detail will be attach to the email).
+8-Execute dotnet run. 
